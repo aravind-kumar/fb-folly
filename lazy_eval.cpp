@@ -7,6 +7,15 @@
 typedef long long int64; 
 typedef unsigned long long uint64;
 
+/* Results: 
+   Note: Based on a few runs only on my mac os
+
+    Time to initilize lazy = 0 ms
+    Time after first use 193 ms
+    Time withourLazy 185 ms
+
+*/
+
 uint64 GetTimeMs64()
 {
  struct timeval tv;

@@ -13,6 +13,8 @@ List of Programs:
 
 * Single Producer-Consumer lockless ringbuffer sending Json Objects;
 
+* Lazy Evaluation of c++ object with benchmarking 
+
 * Json Objects parsing and usability
 
 * Sorted Vector set
